@@ -1,0 +1,162 @@
+{
+    "students" : [
+        {
+            "name" : "Student 1",
+            "phone" : 9831906543,
+            "email" : "student1@gmail.com",
+            "father_name" : "Student 1 Father",
+            "mother_name" : "Student 1 Mother",
+            "progressions" : [
+                {
+                    "roll_no" : "roll1",
+                    "class_name" : "1st",
+                    "section" : "A",
+                    "school_name" : "Student School1",
+                    "joining_date" : "2001-01-01",
+                    "ending_date" : "2001-12-31",
+                    "subjects" : [
+                        {
+                            "subject_name" : "English",
+                            "tests" : [
+                            {
+                                "test_name" : "unit test 1",
+                                "mark" : 45 
+                            },
+                            {
+                                "test_name" : "unit test 2",
+                                "mark" : 43
+                            },
+                            {
+                                "test_name" : "terminal test 1",
+                                "mark" : 85
+                            },
+                            {
+                                "test_name" : "terminal test 2",
+                                "mark" : 90
+                            }
+                            ]
+                        },
+                        {
+                            "subject_name" : "Maths",
+                            "tests" : [
+                            {
+                                "test_name" : "unit test 1",
+                                "mark" : 48 
+                            },
+                            {
+                                "test_name" : "unit test 2",
+                                "mark" : 42
+                            },
+                            {
+                                "test_name" : "terminal test 1",
+                                "mark" : 88
+                            },
+                            {
+                                "test_name" : "terminal test 2",
+                                "mark" : 93
+                            }
+                            ]
+                        },
+                        {
+                            "subject_name" : "Science",
+                            "tests" : [
+                            {
+                                "test_name" : "unit test 1",
+                                "mark" : 45 
+                            },
+                            {
+                                "test_name" : "unit test 2",
+                                "mark" : 43
+                            },
+                            {
+                                "test_name" : "terminal test 1",
+                                "mark" : 85
+                            },
+                            {
+                                "test_name" : "terminal test 2",
+                                "mark" : 90
+                            }
+                            ]
+
+                        }
+                    ]
+                },
+                {
+                    "roll_no" : "roll2",
+                    "class_name" : "2nd",
+                    "section" : "B",
+                    "school_name" : "Student School1",
+                    "joining_date" : "2002-01-01",
+                    "ending_date" : "2002-12-31",
+                    "subjects" : [
+                        {
+                            "subject_name" : "English",
+                            "tests" : [
+                            {
+                                "test_name" : "unit test 1",
+                                "mark" : 45 
+                            },
+                            {
+                                "test_name" : "unit test 2",
+                                "mark" : 43
+                            },
+                            {
+                                "test_name" : "terminal test 1",
+                                "mark" : 85
+                            },
+                            {
+                                "test_name" : "terminal test 2",
+                                "mark" : 90
+                            }
+                            ]
+                        },
+                        {
+                            "subject_name" : "Maths",
+                            "tests" : [
+                            {
+                                "test_name" : "unit test 1",
+                                "mark" : 45 
+                            },
+                            {
+                                "test_name" : "unit test 2",
+                                "mark" : 43
+                            },
+                            {
+                                "test_name" : "terminal test 1",
+                                "mark" : 85
+                            },
+                            {
+                                "test_name" : "terminal test 2",
+                                "mark" : 90
+                            }
+                            ]
+
+                        },
+                        {
+                            "subject_name" : "Science",
+                            "tests" : [
+                            {
+                                "test_name" : "unit test 1",
+                                "mark" : 48 
+                            },
+                            {
+                                "test_name" : "unit test 2",
+                                "mark" : 39
+                            },
+                            {
+                                "test_name" : "terminal test 1",
+                                "mark" : 85
+                            },
+                            {
+                                "test_name" : "terminal test 2",
+                                "mark" : 90
+                            }
+                            ]
+
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
