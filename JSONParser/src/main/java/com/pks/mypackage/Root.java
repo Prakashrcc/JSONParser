@@ -1,15 +1,15 @@
-package com.pks.myPackage;
+package com.pks.mypackage;
 
 import java.util.Arrays;
 
 public class Root {
-	private Students[] students;
+	private Student[] students;
 
-	public Students[] getStudents() {
+	public Student[] getStudents() {
 		return students;
 	}
 
-	public void setStudents(Students[] students) {
+	public void setStudents(Student[] students) {
 		this.students = students;
 	}
 
